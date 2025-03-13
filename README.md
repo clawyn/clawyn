@@ -1,4 +1,4 @@
-## Hi i'm www.linkedin.com/in/claire-mageren 👋
+## Hi i'm [Claire Mageren](https://www.linkedin.com/in/claire-mageren)👋
 
 <!--
 **clawyn/clawyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
