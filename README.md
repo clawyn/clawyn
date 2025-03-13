@@ -1,4 +1,5 @@
-## Hi i'm [Claire Mageren](https://www.linkedin.com/in/claire-mageren) , Java-Angular developer. 
+### Hi i'm [Claire Mageren](https://www.linkedin.com/in/claire-mageren) , Angular and Spring developer. 
+Actively looking for a developer internship in Belgium for now.
 
 <!--
 **clawyn/clawyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
